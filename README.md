@@ -1,1 +1,1 @@
-![image](https://github.com/ashwindukare/Learning-notes/GitHub-Readme-Cover.gif)
+![image](https://github.com/ashwindukare/Learning-notes/Github-Readme-Cover.gif)
