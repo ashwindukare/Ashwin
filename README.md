@@ -1,1 +1,1 @@
-![](https://github.com/Learning-notes/GitHubReadmeProfileCover.gif)
+![](https://github.com/Learning-notes/GitHub-Readme-Cover.gif)
