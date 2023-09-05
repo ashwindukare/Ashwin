@@ -1,1 +1,1 @@
-![Header image](https://github.com/ashwindukare/Learning-notes/Github-Readme-Cover.gif)
+Hello 👋 everyone I am Ashwin Dukare.
