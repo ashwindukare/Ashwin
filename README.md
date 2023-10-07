@@ -1,7 +1,7 @@
 ![gif](https://github.com/ashwindukare/Learning-notes/blob/main/cover.gif)
 <br clear="both">
 
-<h3 align="center">Hi 👋! My name is Ashwin Dukare and  coding enthusiast.</h3>
+<h1 align="center">Hi 👋! My name is Ashwin Dukare and  coding enthusiast.</h1>
 
 ###
 
